@@ -11,7 +11,7 @@ To log your daily work
  
  i. New employee/user will download this repository 
  
- <cmd>git clone https://github.com/kumardharm/murailaJobPortal</cmd>
+ <b>git clone https://github.com/kumardharm/murailaJobPortal</b>
  
  ii. Create branches before working
  
@@ -27,9 +27,10 @@ To log your daily work
   
   v. To save file
   <b>
-  git add .
-  git commit -m "message"
-  git push
+ <ul>
+  <li> git add . </li>
+  <li> git commit -m "message"</li>
+  <li> git push</li>
 </b>
 
 <h2>Folder Structure:</h2>
