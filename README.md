@@ -1,40 +1,44 @@
 # murailaJobPortal
-We are going to create the muraila job portel
+We are going to create the muraila job portal
+
+To log your daily work 
+
+<h5>https://kumardharm.atlassian.net/secure/RapidBoard.jspa?projectKey=MJ&rapidView=5</h5>
 
 <h2>Working Methods</h2>
 
-1. How to work in this directory?
+<h3>How to work in this directory?</h3>
  
  i. New employee/user will download this repository 
  
- git clone https://github.com/kumardharm/murailaJobPortal
+ <cmd>git clone https://github.com/kumardharm/murailaJobPortal</cmd>
  
  ii. Create branches before working
  
- git checkout -b <employee name>
+<cmd> git checkout -b <employee name> </cmd>
   
-  iii. Finally when job is done, Admin will merge the code in main file
+ iii. Finally when job is done, Admin will merge the code in main file
   
-  git merge ?
+  <cmd>git merge ?</cmd>
   
-  iv. To download latest updates ,
+ iv. To download latest updates ,
   
-  git pull
+ <cmd> git pull </cmd>
   
   v. To save file
-  
+  <cmd>
   git add .
   git commit -m "message"
   git push
-
+</cmd>
 
 <h2>Folder Structure:</h2>
 
-1. There are 2 main folders
+<h3>There are 2 main folders</h3>
     1.  connection
     2.  logic
 
-2. There are 18 php files in the project
+<h3> There are 18 php files in the project </h3>
     1. codes.php
     2. connection
     3. contact.php
@@ -54,7 +58,7 @@ We are going to create the muraila job portel
     17. single.php
     18. terms.php 
 
-3. There are 3 configuration file 
+<h3> There are 3 configuration file </h3>
     1. css
     2. fonts
     3. images
