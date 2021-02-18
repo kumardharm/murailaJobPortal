@@ -15,22 +15,22 @@ To log your daily work
  
  ii. Create branches before working
  
-<cmd> git checkout -b <employee name> </cmd>
+<b> git checkout -b <employee name> </b>
   
  iii. Finally when job is done, Admin will merge the code in main file
   
-  <cmd>git merge ?</cmd>
+  <b>git merge <branch name></b>
   
  iv. To download latest updates ,
   
- <cmd> git pull </cmd>
+ <b> git pull </b>
   
   v. To save file
-  <cmd>
+  <b>
   git add .
   git commit -m "message"
   git push
-</cmd>
+</b>
 
 <h2>Folder Structure:</h2>
 
