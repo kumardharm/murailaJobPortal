@@ -1,4 +1,4 @@
-# murailaJobPortal
+# Muraila Job Portal
 We are going to create the muraila job portal
 
 To log your daily work 
