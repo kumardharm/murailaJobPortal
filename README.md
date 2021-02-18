@@ -35,33 +35,38 @@ To log your daily work
 <h2>Folder Structure:</h2>
 
 <h3>There are 2 main folders</h3>
-    1.  connection
-    2.  logic
+<ul>
+ <li>  connection </li>    
+ <li> logic </li>
+ </ul>
 
 <h3> There are 18 php files in the project </h3>
-    1. codes.php
-    2. connection
-    3. contact.php
-    4. features.php
-    5. following.php
-    6. follow_single.php
-    7. index.php
-    8. jobs.php
-    9. jobs_single.php
-    10. location.php
-    11. location_single.php
-    12. login.php
-    13. recruiters.php
-    14. register.php
-    15. resume.php
-    16. services.php
-    17. single.php
-    18. terms.php 
+
+<ul>
+<ol>codes.php</ol>
+<ol>contact.php</ol>
+<ol>features.php</ol>
+<ol> following.php</ol>
+<ol>follow_single.php</ol>
+<ol> index.php</ol>
+<ol> jobs.php</ol>
+<ol> jobs_single.php</ol>
+<ol> location.php</ol>
+<ol> location_single.php</ol>
+<ol> login.php</ol>
+<ol> recruiters.php</ol>
+<ol> register.php</ol>
+<ol> resume.php</ol>
+<ol> services.php</ol>
+<ol> single.php</ol>
+<ol> terms.php</ol>
+</ul>
 
 <h3> There are 3 configuration file </h3>
-    1. css
-    2. fonts
-    3. images
+     <ul>
+ <li>css</li>
+ <li> fonts</li>
+ <li> images </li>
 
 
 
