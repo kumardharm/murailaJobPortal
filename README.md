@@ -42,25 +42,25 @@ To log your daily work
 
 <h3> There are 18 php files in the project </h3>
 
-<ul>
-<ol>codes.php</ol>
-<ol>contact.php</ol>
-<ol>features.php</ol>
-<ol> following.php</ol>
-<ol>follow_single.php</ol>
-<ol> index.php</ol>
-<ol> jobs.php</ol>
-<ol> jobs_single.php</ol>
-<ol> location.php</ol>
-<ol> location_single.php</ol>
-<ol> login.php</ol>
-<ol> recruiters.php</ol>
-<ol> register.php</ol>
-<ol> resume.php</ol>
-<ol> services.php</ol>
-<ol> single.php</ol>
-<ol> terms.php</ol>
-</ul>
+<ol>
+<li>codes.php</li>
+<li>contact.php</li>
+<li>features.php</li>
+<li> flilowing.php</li>
+<li>flilow_single.php</li>
+<li> index.php</li>
+<li> jobs.php</li>
+<li> jobs_single.php</li>
+<li> location.php</li>
+<li> location_single.php</li>
+<li> login.php</li>
+<li> recruiters.php</li>
+<li> register.php</li>
+<li> resume.php</li>
+<li> services.php</li>
+<li> single.php</li>
+<li> terms.php</li>
+</ol>
 
 <h3> There are 3 configuration file </h3>
      <ul>
