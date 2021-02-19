@@ -15,7 +15,7 @@ To log your daily work
  
  ii. Create branches before working
  
-<b> git checkout -b <employee name> </b>
+<b> git checkout -b "employee name" </b>
   
  iii. Finally when job is done, Admin will merge the code in main file
   
